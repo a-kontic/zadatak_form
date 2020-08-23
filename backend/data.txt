@@ -1,0 +1,9 @@
+﻿{
+  "firstName": "Antonia",
+  "lastName": "Kontić",
+  "address": "Vukovarska 10",
+  "phone": "+0930481354",
+  "email": "antonia@mail.com",
+  "password": "password",
+  "accept": "on"
+}
