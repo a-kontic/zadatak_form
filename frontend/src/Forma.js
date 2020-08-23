@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { setValues } from "./actions";
+import { setValues } from "./actionSetValues";
 import { setValid } from "./actionSetValid";
 import { connect } from "react-redux";
 import "./forma.css";
